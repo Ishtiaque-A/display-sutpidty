@@ -1,0 +1,4 @@
+~/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml
+~/.config/monitors.xml
+~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+~/etc/X11/xorg.conf.d/10-monitor.conf
